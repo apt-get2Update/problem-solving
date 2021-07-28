@@ -51,3 +51,11 @@ function carCount(s){
     }
     return map;
 }
+
+# CoinChangeProblem : [1,5,7,9,11] : find minimum number of coins for any input < than 250
+# for eg 25 requires 3 coins and 88 requires 8 coins
+# 25 (11 , 9 , 5)
+# 88 (11,11,11,11,11,11,11,11)
+# 6 ( 5,1) 
+
+
